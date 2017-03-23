@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_e5f211eb3453b9843e83d10248c71752698dfabc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_4da05b0a7e56aec412c40f7f8fad9c414ac71e23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP Pavilion 13\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\pre-dexed\debug\butterknife-annotations-8.0.1_fc0244a612dfe44c8e5fae705ec8e993ff5fdbe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_b532da5d1328a1ff31c117af6917ed3433f78864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_e58013c780d058a67724996cf9b0957af9844ec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_29ffb4de191e9491449ddcc177c8ec9288f3b53c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_b9b2f9be2537b09bd224079e5dcc20ec0df588ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_d616d5d6f31456467adcbb2e473bb11f47eb1f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_ef93c5847fa963010c6c9490bc73bb46b93a0965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_fdf9a87a48ac0d758ffb1e4b25196fa4b8d58f1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="C:\Users\Public\AndroidStudioProjects\SillyPoint\SillyPoint\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.0.1_ff8ba04a18a377c56d05065073a1eb4ceeeebd31.jar" />
+    </item>
+
+</items>

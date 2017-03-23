@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ball1.png",
+        "source": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\src\\main\\res\\mipmap-xxhdpi\\ball1.png"
+    },
+    {
+        "merged": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\bat2.png",
+        "source": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\src\\main\\res\\mipmap-xxhdpi\\bat2.png"
+    },
+    {
+        "merged": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\wickets.png",
+        "source": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\src\\main\\res\\mipmap-xxhdpi\\wickets.png"
+    },
+    {
+        "merged": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\bat_ball.png",
+        "source": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\src\\main\\res\\mipmap-xxhdpi\\bat_ball.png"
+    }
+]

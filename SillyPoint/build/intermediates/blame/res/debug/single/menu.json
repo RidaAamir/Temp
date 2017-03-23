@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navigation_page_drawer.xml",
+        "source": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\src\\main\\res\\menu\\activity_navigation_page_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\build\\intermediates\\res\\merged\\debug\\menu\\welcome_menu.xml",
+        "source": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\src\\main\\res\\menu\\welcome_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\build\\intermediates\\res\\merged\\debug\\menu\\activity_welcome_menu_drawer.xml",
+        "source": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\src\\main\\res\\menu\\activity_welcome_menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_page.xml",
+        "source": "C:\\Users\\Public\\AndroidStudioProjects\\SillyPoint\\SillyPoint\\src\\main\\res\\menu\\navigation_page.xml"
+    }
+]
